@@ -1,6 +1,6 @@
 👋 Hi, I’m Thuy Pham  
 👀 I’m interested in Lean principle, logistic/ supply chain process optimization, and implementation AI/ML in logistics/ supplychain  
-🌱 I’m currently learning logistics, and AI/ ML, especially Tensorflow  
+🌱 I’m a logistics grad, looking into AI/ ML implementation in Logistics, passionate about Warehouse 4.0
 💞️ I’m looking to collaborate on project to optimize warehouse operation with the implementation of lean priciple, and warehouse 4.0 with the applictaion of AI/ML  
 📫 I would love to talk about opportunity to work together at Thuy.pham75016@gmail.com  
 <!---
